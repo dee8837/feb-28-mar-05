@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: ;
+    flex-wrap: nowrap;
+
+}
+.fizz button
+{
+    height: 60px;
+    width: 100px;
+    font-size: larger;
+    border-radius: 10px;
+}
+.fizz{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(79, 90, 97);
+    padding: 30px;
+    color: rgb(182, 41, 41);
+
+
+
+}
+button:hover
+{
+    background-color: rgb(134, 204, 134);
+    border-radius: 10px;
+}

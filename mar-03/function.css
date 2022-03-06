@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    }
+    .light {
+        background-color: aliceblue;
+    }
+
+    .light h3 {
+        color:#1111
+    }
+
+
+
+    .dark {
+    background-color: #2b2b2b;
+
+    
+}
+
+.dark h3 {
+    color: #eeee
+
+}
+
+.popup {
+    position:fixed;
+    top:40%;
+    width: 100vw;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    text-align: center;
+
+
+}
+
+.d-none {
+    display:none;
+}
+
+    
+
+
+
+
+
+     
+     
+
+
+     
+ 
